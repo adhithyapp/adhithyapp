@@ -15,7 +15,7 @@ M.Sc. Informatics graduate from Technische Universität Clausthal with interests
 - PDDL / Fast Downward
 
 ## Current Focus
-I am currently seeking junior or entry-level full-time opportunities in Germany in:
+I am currently seeking junior or entry-level full-time opportunities in:
 - Software Development
 - Python Development
 - Frontend Development
